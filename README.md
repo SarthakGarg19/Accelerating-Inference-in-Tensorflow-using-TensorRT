@@ -9,7 +9,7 @@ TensorRT is an optimization tool provided by NVIDIA that applies graph optimizat
 Pre-requrement: Install TensorRT by following this tutorial here for Ubuntu dekstop or here for Jetson devices
 
     Tensorflow 1.12
-    OpenCV 3.4.5
+    OpenCV 3.4.5.20
     Pillow 5.2.0
     Numpy 1.15.2
     Matplotlib 3.0.0
