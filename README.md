@@ -13,3 +13,7 @@ Pre-requrement: Install TensorRT by following this tutorial here for Ubuntu deks
     Pillow 5.2.0
     Numpy 1.15.2
     Matplotlib 3.0.0
+
+## Visualize the original and optimized graphs
+
+One of the easiest way to do that is using netron here: https://lutzroeder.github.io/netron/
